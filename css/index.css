@@ -1,0 +1,54 @@
+
+header{margin-top: 80px;}
+
+#homeHeading{
+	color: rgba(0,0,0,0.7);
+/*	font-family: 'Fredericka the Great', cursive;*/
+	text-transform:none;
+
+}
+
+p{
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	text-align: center;
+	color: #515757;
+	margin-top: 10px;
+}
+
+h2{
+	font-size: 22px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	text-align: center;
+	color: #515757;
+	padding: 10px;
+	line-height: 150%;
+}
+
+h3{
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	color: #515757;
+	padding: 10px;
+	line-height: 150%;
+}
+
+#homepage-header{margin-top: 56px}
+
+#contact{
+	background-color: rgba(0,0,0,0.7);
+}
+
+#text-bold{
+	font-weight: 400;
+}
+
+.section-heading{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	margin: 18px 0;}
